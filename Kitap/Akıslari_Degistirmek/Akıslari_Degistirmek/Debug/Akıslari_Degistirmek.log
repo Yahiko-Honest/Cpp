@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C++\Kitap\Akıslari_Degistirmek\Akıslari_Degistirmek\Source.cpp(8,22): error C2248: 'std::basic_ostream<char,std::char_traits<char>>::basic_ostream': cannot access protected member declared in class 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\ostream(43): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>::basic_ostream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iosfwd(225): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C++\Kitap\Akıslari_Degistirmek\Akıslari_Degistirmek\Source.cpp(8,87): error C2248: 'std::basic_istream<char,std::char_traits<char>>::basic_istream': cannot access protected member declared in class 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(52): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>::basic_istream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iosfwd(224): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'

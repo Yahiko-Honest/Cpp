@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C++\Variable_Argument_Kullanımı\Variable_Argument_Kullanımı\Source.cpp(16,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Variable_Argument_Kullanımı.vcxproj -> C:\Users\ekmen\Documents\Masaüstü\Udemy\C++\Variable_Argument_Kullanımı\Debug\Variable_Argument_Kullanımı.exe
